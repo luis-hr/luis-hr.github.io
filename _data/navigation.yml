@@ -1,5 +1,3 @@
 main:
-  - title: "Projects"
+  - title: "Publications"
     url : "/projects"
-  - cv : "CV"
-    url : "./assets/pdf/Luis-Hernandez-cv.pdf" 
