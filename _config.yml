@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bio - Luis H
+title: Luis Hernández Rocha
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Bio sample.
@@ -55,13 +55,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Luis Hernandez Rocha"
+  name   : "Luis Hernández Rocha"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "CS Ph.D. student at the University of Michigan"
+  location : "Ann Arbor, MI"
   links:
+    - email : "luishr@umich.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/luis-hernandez-rocha/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/luis-hr"
+
 
 footer:
   links:
@@ -70,10 +76,8 @@ footer:
       url: "https://www.linkedin.com/in/luis-hernandez-rocha/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/luis-hr"
+
 
 defaults:
   # _posts
