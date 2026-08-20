@@ -2,4 +2,4 @@ main:
   - title: "Projects"
     url : "/projects"
   - cv : "CV"
-    url : "./assets/Luis-Hernandez-cv" 
+    url : "/assets/pdf/Luis-Hernandez-cv.pdf" 
