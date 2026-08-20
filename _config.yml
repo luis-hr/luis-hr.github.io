@@ -59,8 +59,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "CS Ph.D. student at the University of Michigan"
   location : "Ann Arbor, MI"
+  email : "luishr@umich.edu"
   links:
-    - email : "luishr@umich.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/luis-hernandez-rocha/"
